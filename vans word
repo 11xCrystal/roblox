@@ -1,0 +1,89 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("11x", "Sentinel")
+local farm = Window:NewTab("farm")
+local Section = farm:NewSection("auto farm")
+Section:NewButton("Vans Off The Wall Helmet", "get free ugc", function()
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-799.505188, 66.0386353, -1000.79181, -0.475040913, -7.40272412e-08, 0.879963696, -6.70046063e-08, 1, 4.7953467e-08, -0.879963696, -3.61817634e-08, -0.475040913)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(21.2138824, 124.230484, -768.147888, 0.0952931345, 6.41254587e-08, -0.995449245, -9.01524899e-08, 1, 5.57884263e-08, 0.995449245, 8.44259702e-08, 0.0952931345)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-170.152649, 211.36412, -712.868042, -0.91937083, 4.18174935e-08, -0.393392056, 6.34967847e-08, 1, -4.20943884e-08, 0.393392056, -6.36794866e-08, -0.91937083)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(57.8984261, 62.9599876, -107.211945, 0.639137328, 1.68995995e-09, -0.769092619, 3.39136275e-09, 1, 5.015659e-09, 0.769092619, -5.81396709e-09, 0.639137328)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-10.6886511, 56.8084106, 579.391174, -0.242904425, 8.50077271e-08, -0.970050216, -2.81413115e-08, 1, 9.46789882e-08, 0.970050216, 5.02964319e-08, -0.242904425)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1075.89075, 64.7586975, -1018.552, 0.793564975, -4.07984899e-08, 0.60848552, 8.44144097e-08, 1, -4.3041009e-08, -0.60848552, 8.55207887e-08, 0.793564975)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(411.7565, 151.757553, -1000.35999, -0.0338615999, -1.48934546e-07, 0.999426544, 4.7783594e-08, 1, 1.50638968e-07, -0.999426544, 5.28570681e-08, -0.0338615999)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-593.773987, 42.9598656, -91.8910446, 0.967457175, -9.58424184e-09, 0.253034711, 1.31079609e-08, 1, -1.22400188e-08, -0.253034711, 1.51584629e-08, 0.967457175)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(122.151588, 136.591766, -1243.37646, 0.275792629, 2.5232032e-09, -0.961217165, 2.15694715e-08, 1, 8.81372575e-09, 0.961217165, -2.31637074e-08, 0.275792629)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-934.775635, 60.9515572, 820.289185, 0.570593536, -3.10154533e-08, 0.821232617, 7.69985107e-08, 1, -1.57317164e-08, -0.821232617, 7.22101063e-08, 0.570593536)
+end)
+
+Section:NewButton("Vans Pigeon Shoulder Pet", "get free ugc for free", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9.64464951, 152.082275, -607.058533, -0.0170036852, 5.27887378e-09, 0.999855399, 3.00672802e-08, 1, -4.76830886e-09, -0.999855399, 2.99818552e-08, -0.0170036852)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(332.548248, 140.328781, -551.659912, -0.989953041, -4.67982941e-09, -0.141396344, 2.91686764e-09, 1, -5.35190026e-08, 0.141396344, -5.33937339e-08, -0.989953041)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(963.550598, 109.479874, -1041.63928, -0.343757749, -7.40734407e-08, -0.939058363, -4.76199347e-08, 1, -6.1448489e-08, 0.939058363, 2.35945041e-08, -0.343757749)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(836.65509, 153.998505, -452.404968, 0.786507487, -3.41662982e-08, -0.617580771, 2.58092676e-08, 1, -2.24539338e-08, 0.617580771, 1.72088022e-09, 0.786507487)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(937.492249, 74.098526, 40.1046257, -0.391669124, -3.00520653e-09, -0.920106113, -2.02767101e-08, 1, 5.36520162e-09, 0.920106113, 2.07581081e-08, -0.391669124)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(575.967957, 139.098511, 9.20687675, -0.551165938, -9.67374021e-08, 0.834395647, -5.54819231e-08, 1, 7.92881139e-08, -0.834395647, -2.59296962e-09, -0.551165938)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(446.122375, 103.600128, 280.554504, -0.821386993, 7.11520585e-08, 0.57037127, 4.37967991e-08, 1, -6.16755145e-08, -0.57037127, -2.56790287e-08, -0.821386993)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-4.26747179, 158.013519, 186.806793, -0.320978731, 2.7983921e-08, 0.947086394, 2.3617174e-08, 1, -2.15432401e-08, -0.947086394, 1.54525832e-08, -0.320978731)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(84.1092911, 51.3248672, 574.801086, -0.997995496, 4.45711912e-08, 0.0632847846, 4.27287894e-08, 1, -3.04662642e-08, -0.0632847846, -2.77011107e-08, -0.997995496)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(412.286255, 99.4399796, 672.264465, -0.433721155, -5.29152331e-08, 0.90104717, 1.4555364e-08, 1, 6.57326353e-08, -0.90104717, 4.16247019e-08, -0.433721155)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(644.115295, 65.4590683, 1248.86768, 0.0996632278, -8.33531146e-08, -0.995021224, 7.42599298e-08, 1, -7.63321708e-08, 0.995021224, -6.62826949e-08, 0.0996632278 )
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-686.431885, 71.3129959, 848.08551, -0.999561906, 1.68247993e-08, -0.0295976847, 1.73198078e-08, 1, -1.6468233e-08, 0.0295976847, -1.69736438e-08, -0.999561906)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-979.161438, 41.347538, -312.699402, -0.115163401, -9.39155953e-08, 0.993346572, -6.73262601e-09, 1, 9.37640934e-08, -0.993346572, 4.11036094e-09, -0.115163401)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-528.378601, 56.6233864, 325.756622, -0.999553025, 5.93434013e-09, -0.0298960134, 8.3576932e-09, 1, -8.09344414e-08, 0.0298960134, -8.114813e-08, -0.999553025)
+    wait(0.4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-527.388184, 153.491226, -1069.10876, 0.352890074, -3.8754969e-08, 0.935664773, -3.72009823e-09, 1, 4.28227658e-08, -0.935664773, -1.85924947e-08, 0.352890074)
+    wait(0.4)
+end)
+
+    local player = Window:NewTab("playler")
+    local Section = player:NewSection("playler")
+    Section:NewButton("speed", "speed to 120", function()
+        local walkSpeed = 120
+ 
+ 
+ 
+        local gmt = getrawmetatable(game)
+         
+        setreadonly(gmt, false)
+         
+        local oldindex = gmt.__index
+         
+        gmt.__index = newcclosure(function(self,b)
+         
+        if b == "WalkSpeed" then
+         
+        return 16
+         
+        end
+         
+        return oldindex(self,b)
+         
+        end)
+         
+         
+         
+        game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = walkSpeed
+end)
